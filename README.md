@@ -1,1 +1,1 @@
-# Competior-Sales-Analysis
+# Competitor-Sales-Analysis
